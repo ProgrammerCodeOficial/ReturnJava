@@ -23,7 +23,6 @@ Ele é uma instução de interrupção.
     - O tipo de retorno do método é definido na sua criação e
     pode ser um tipo primitivo ou objeto.
     - O tipo de dado do return deve ser compatível com o do método.
-    -
 ```
 
 > Exemplos
