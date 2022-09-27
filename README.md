@@ -1,27 +1,31 @@
-<h1> 📚 Return no Java </h1>
+<h1 align="center"> 📚 Return no Java </h1>
 
-### 🤔 O que é return em Java?
+<p align="center"> Estudando e entendendo os métodos de retorno em Java. </p>
 
-```shell
+<h2> 🤔 O que é return em Java? </h2>
+
+<p>
 O return serve para retornar algo dentro do método.
 
 Todo método que não seja void está informando ao Java que ele vai retornar um valor e, por isso, 
-obrigatoriamente deverá utilizar o return para devolver um valor. Ele é uma instução de interrupção.
-```
+</p></br>
 
 
-### 🤔 O método executa seu retorno quando ?
+<h2> 🤔 O método executa seu retorno quando ?</h2>
 
-```shell
-    - Completa todas as instruções internas.
-    - Chega a uma declaração explicita de retorno.
-    - Lança uma exceção.
-    - Se o método for sem retorno (void), pode ou não ter um "return" para encerrar sua execução.
-    - O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto.
-    - O tipo de dado do return deve ser compatível com o do método.
-```
+<p>
 
-> Exemplos
+- Completa todas as instruções internas.
+
+- Chega a uma declaração explicita de retorno.- Lança uma exceção.
+
+- Se o método for sem retorno (void), pode ou não ter um "return" para encerrar sua execução. 
+
+- O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto. 
+
+- O tipo de dado do return deve ser compatível com o do método.</p></br>
+
+><h3> Exemplos</h3>
 
 ### ✔️ Correto
 
@@ -58,3 +62,25 @@ obrigatoriamente deverá utilizar o return para devolver um valor. Ele é uma in
         ...
     }
 ```
+</br>
+
+<h2> 🤝 Contribuindo </h2>
+
+<p>
+Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
+    
+Se te ajudei de alguma forma, ficarei feliz em saber. 😜
+    
+Caso você conheça alguém que se identifique com esse conteúdo, não deixe de compartilhar.
+</br></br>
+
+
+> <h4>Se possível:</h4>
+- ⭐️ Dê Star para o projeto
+- 🐛 Encontrar e relatar issues
+</p>
+
+
+------------
+Disponibilizado 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
+
