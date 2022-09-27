@@ -72,7 +72,7 @@ Este repositório foi criado para fins de estudo. Fique a vontade para contribui
 Se te ajudei de alguma forma, ficarei feliz em saber. 😜
     
 Caso você conheça alguém que se identifique com esse conteúdo, não deixe de compartilhar.
-</br></br>
+</br>
 
 
 > <h4>Se possível:</h4>
