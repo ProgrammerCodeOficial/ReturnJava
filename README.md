@@ -2,15 +2,13 @@
 
 ### 🤔 O que é return em Java?
 
-<p> O return serve para retornar algo dentro do método.
+```shell
+O return serve para retornar algo dentro do método.
 
-Todo método que não seja void está informando ao Java que ele
-vai retornar um valor e, por isso, obrigatoriamente deverá
-utilizar o return para devolver um valor.
+Todo método que não seja void está informando ao Java que ele vai retornar um valor e, por isso, obrigatoriamente 
+deverá utilizar o return para devolver um valor. Ele é uma instução de interrupção.
+```
 
-Ele é uma instução de interrupção.
-
-</p>
 
 ### O método executa seu retorno quando ?
 
@@ -18,10 +16,8 @@ Ele é uma instução de interrupção.
     - Completa todas as instruções internas.
     - Chega a uma declaração explicita de retorno.
     - Lança uma exceção.
-    - Se o método for sem retorno (void), pode ou não ter um
-    "return" para encerrar sua execução.
-    - O tipo de retorno do método é definido na sua criação e
-    pode ser um tipo primitivo ou objeto.
+    - Se o método for sem retorno (void), pode ou não ter um "return" para encerrar sua execução.
+    - O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto.
     - O tipo de dado do return deve ser compatível com o do método.
 ```
 
@@ -33,6 +29,7 @@ Ele é uma instução de interrupção.
     public String getMensagem(){
         return "Olá!";
     }
+    
 
     public double getJuros(){
         return 2.36;
@@ -45,6 +42,7 @@ Ele é uma instução de interrupção.
     public int getParcelas(){
         return 1.36f;
     }
+    
 
     public void setIdade(){
         return 10;
