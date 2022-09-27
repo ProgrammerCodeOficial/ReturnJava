@@ -5,12 +5,12 @@
 ```shell
 O return serve para retornar algo dentro do método.
 
-Todo método que não seja void está informando ao Java que ele vai retornar um valor e, por isso, obrigatoriamente 
-deverá utilizar o return para devolver um valor. Ele é uma instução de interrupção.
+Todo método que não seja void está informando ao Java que ele vai retornar um valor e, por isso, 
+obrigatoriamente deverá utilizar o return para devolver um valor. Ele é uma instução de interrupção.
 ```
 
 
-### O método executa seu retorno quando ?
+### 🤔 O método executa seu retorno quando ?
 
 ```shell
     - Completa todas as instruções internas.
